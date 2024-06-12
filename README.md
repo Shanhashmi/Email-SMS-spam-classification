@@ -1,7 +1,9 @@
 # Email-SMS-spam-classification
 Spam classification using ML
 This is a project that uses machine learning algorithms to classify emails as either spam or not spam. The project is based on a tutorial found on YouTube.
+
 The tutorial link : https://youtu.be/YncZ0WwxyzU
+
 Run the code
 Before you can run the code in this project, you will need to have the following installed:
 
